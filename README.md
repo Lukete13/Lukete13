@@ -1,6 +1,10 @@
-### Hi there 👋
+<h1 align="center"> <b>Bom diaa! Meu nome é Lucas e esse é o meu Repositório!(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ </b> 🍕</h1>
+<p align="center">Good Morning! My name is Lucas and this is my Repository!(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ </p>
 
-<!--
+<h2 align="center"> Estudante de Design de Games</h2>
+<p align="center"> Game Design Student</p>
+<br><br>
+
 **Lukete13/Lukete13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +17,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
